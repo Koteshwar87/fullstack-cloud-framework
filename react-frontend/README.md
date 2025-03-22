@@ -1,5 +1,5 @@
 
-VS Code PowerShell as Administrator
+VS Code PowerShell as Administrator:
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 
 
